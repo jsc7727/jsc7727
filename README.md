@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/redis-red?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/mongoDB-seagreen?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/firebase-gold?style=flat-square&logo=Firebase&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/sequelize-blue?style=flat-square&logo=Sequelize&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/express-DB3552?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
