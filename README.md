@@ -16,5 +16,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/redis-red?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/sequelize-blue?style=flat-square&logo=Sequelize&logoColor=white"/></a>&nbsp 
 </p>
 
