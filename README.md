@@ -9,13 +9,17 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-forestgreen?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/redis-red?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/mongoDB-seagreen?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/sequelize-blue?style=flat-square&logo=Sequelize&logoColor=white"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/express-DB3552?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/webRtc-11B48A?style=flat-square&logo=webRtc&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-lightskyblue?style=flat-square&logo=React&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/redis-red?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/sequelize-blue?style=flat-square&logo=Sequelize&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/passport-mediumseagreen?style=flat-square&logo=Passport&logoColor=white"/></a>&nbsp
+
 </p>
 
