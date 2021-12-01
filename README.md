@@ -21,6 +21,11 @@
   <img src="https://img.shields.io/badge/react-lightskyblue?style=flat-square&logo=React&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/passport-mediumseagreen?style=flat-square&logo=Passport&logoColor=white"/></a>&nbsp
-
+  <div align="center">
+    <div style="display: flex;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsc7727&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jsc7727&&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    </div>
+  </div>
 </p>
 
