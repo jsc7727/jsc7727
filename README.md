@@ -36,6 +36,16 @@
   <img src="https://img.shields.io/badge/firebase-gold?style=flat-square&logo=Firebase&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/sequelize-blue?style=flat-square&logo=Sequelize&logoColor=white"/></a>&nbsp 
 </p>
+
+<h4 align="center">Deploy</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white"/></a>&nbsp 
+</p>
+
 <h4 align="center">Contract</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Klaytn-f26d07.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAyMDAwIDE5NzUuMSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjAwMCAxOTc1LjE7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojNEY0NzNCO30KPC9zdHlsZT4KPGc+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTA0Ny40LDk4Mi41bDY4My4zLDY3OC4zYzM1OS4xLTM4MC45LDM1OS4xLTk3NS43LDAtMTM1Ni42Ii8+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNOTk3LjUsMTAyNy40bC02NzMuMyw2NjguM2w2NzMuMywyNzkuM2w2NzMuMy0yNzkuMyIvPgoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTk3Mi42LDk1Ny42bDY5OC4zLTY5My4zTDEwMjcuNCwwTDM4OSwxNTQxLjJMOTcyLjYsOTU3LjZ6Ii8+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMCw5ODIuNWMtMC41LDI1Mi4zLDk1LjksNDk1LjEsMjY5LjMsNjc4LjNsNjY4LjMtMTYxMSIvPgo8L2c+Cjwvc3ZnPgo=&style=flat-square"/></a>&nbsp 
