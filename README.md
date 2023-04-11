@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=jsc7727&color=green)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <h4 align="center">Planning & Cooperation</h4>
